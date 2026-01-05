@@ -1,0 +1,9 @@
+theme = 'PaperMod'
+[params.homeInfoParams]
+    Title = "欢迎来到我的个人博客"
+    Content = "这里记录了关于 Orin 和 AI 的学习笔记。"
+
+[params]
+    showFullTextContent = false
+    defaultTheme = "auto" # 自动切换深色/浅色模式
+    displayFullPostContent = false
